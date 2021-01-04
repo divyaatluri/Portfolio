@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Divya Atluri",
+    "occupation": " Front End Developer",
+    "description": "",
+    "image": "divya.jpg",
+    "bio": "My name is Divya, I'm a Front End Developer using React JS, ES6, Javascript,HTML,CSS. Currently I'm looking for employment opportunities in Singapore",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "divya.atluri1992@gmail.com",
+    "phone": "+6593387075",
+    "address": {
+      "street": "Flora Drive",
+      "city": "Singapore",
+      "state": "Singapore",
+      "zip": ""
+    },
+    "website": "http://www.kondapaneni.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dikki.divya",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/divya-atluri-b13898a2/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/divya.atluri/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/divyaatluri",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my Details",
+    "education": [
+      {
+        "school": "Gitam University",
+        "degree": "Post Graduate Diploma in Communication Skills",
+        "graduated": "May 2019",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Andhra University",
+        "degree": "Bachelor's degree in Information Technology",
+        "graduated": "April 2014",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infosys Limited",
+        "title": "Senior Systems Engineer",
+        "years": "Oct 2014 - August 2019",
+        "description": "Senior Systems Engineer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "40%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Full Stack Amazon Clone",
+        "category": "Amazon Clone built with Firebase, ExpressJS, ReactJS, NodeJS",
+        "image": "Amazon.JPG",
+        "url": "https://clone-3a193.web.app/"
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
